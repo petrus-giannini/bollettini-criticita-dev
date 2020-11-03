@@ -1,0 +1,1 @@
+# bollettini-criticita-dev
