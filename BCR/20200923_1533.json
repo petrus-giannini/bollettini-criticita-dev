@@ -1,7 +1,7 @@
 {
   "type": "errataCorrige",
-  "date": "2020-11-12T14:12:55.663Z",
-  "name": "Bollettino del 2020-9-23",
+  "date": "2020-11-12T14:28:22.187Z",
+  "name": "Bollettino del 2020-9-23, errata corrige delle ore 15:33",
   "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
   "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20200923_1533_style.json",
   "today": {
