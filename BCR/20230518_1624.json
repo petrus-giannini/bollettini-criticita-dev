@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-05-22T09:27:34.340Z",
+  "name": "Bollettino del 18 maggio 2023 ore 16:24",
+  "global_legend": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/topojson/20230518_1624_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/topojson/20230518_1624_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 18 maggio 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Pianura bolognese, Collina bolognese, Bassa collina piacentino-parmense<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura bolognese, Collina emiliana centrale, Montagna emiliana centrale, Collina bolognese, Bassa collina e pianura romagnola<br /><b>Marche</b>: Marc-2, Marc-3<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/pdf/20230518_1624.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/xml/20230518_1624.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/shp/20230518_1624_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/all/20230518_1624_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/topojson/20230518_1624_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 19 maggio 2023:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Pianura bolognese<br /><b>Marche</b>: Marc-2<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Pianura bolognese, Collina bolognese, Bassa collina piacentino-parmense<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Collina bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Marche</b>: Marc-4, Marc-2<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/pdf/20230518_1624.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/xml/20230518_1624.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/shp/20230518_1624_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/petrus-giannini/bollettini-criticita-dev/master/BCR/all/20230518_1624_all.zip"
+      }
+    ]
+  }
+}
